@@ -1,0 +1,19 @@
+h1{
+    font-weight: 700;
+    font-size: 2.7rem;
+    margin: 1.5rem;
+    margin-bottom: 2rem;
+}
+input{
+    width: 100%;
+}
+.items-container{
+    text-align: left;
+}
+.row-item{
+   margin: 0.7rem 0.5rem; 
+}
+.ad-button{
+    text-align: center;
+  min-width: 4rem ; 
+}
